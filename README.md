@@ -1,7 +1,3 @@
-# 💫 About Me:
-Currently, I am focusing on my studies and working towards becoming a senior software engineer. While I may not have a specific hobby, my dedication to my studies and career goals keeps me engaged.<br>At the moment, I am learning various programming languages, software design principles, and best practices in software engineering. This continuous learning process is crucial for enhancing my skills and preparing me for a successful career in software development.<br>Feel free to share your insights and opinions on software engineering trends, technologies, and best practices. Your perspective could provide valuable insights and broaden my understanding of the field.<br>Could you tell me more about your experiences in software engineering or any advice you have for someone aspiring to become a senior software engineer?<br>
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.discordapp.com/users/1019579204548968519) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HAITAM-ELGHARRAS) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Haitam-Elgharras)
 
